@@ -1,4 +1,4 @@
-# 🚀 SUI NFT & Token Launchpad Smart Contract
+# 🚀 EVM | SUI NFT & Token Launchpad Smart Contract
 
 [![SUI](https://img.shields.io/badge/SUI-Mainnet-blue.svg)](https://sui.io/)
 [![Move](https://img.shields.io/badge/Move-Language-orange.svg)](https://move-language.github.io/move/)
